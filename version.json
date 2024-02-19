@@ -1,7 +1,7 @@
 {
 	"PyUpdater":
 	{
-		"version": 1, 
+		"version": 2.0, 
 		"url": "https://github.com/Fenghh1/PyUpdater.git",
 		"is_run":true
 	}
